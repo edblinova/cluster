@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:16Z"
+  name: deployment-controller
+  namespace: kube-system
+  resourceVersion: "290"
+  uid: 5334fb7f-cbed-4d8a-8199-207729002c2f
+secrets:
+- name: deployment-controller-token-jrm6m

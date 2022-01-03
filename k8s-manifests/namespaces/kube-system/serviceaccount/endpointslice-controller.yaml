@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:27Z"
+  name: endpointslice-controller
+  namespace: kube-system
+  resourceVersion: "370"
+  uid: ad69e92f-98a0-4fa3-9a3b-0d1e1b64bdc7
+secrets:
+- name: endpointslice-controller-token-5glqm

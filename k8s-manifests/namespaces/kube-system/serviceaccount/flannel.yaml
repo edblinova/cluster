@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  annotations:
+    kubectl.kubernetes.io/last-applied-configuration: |
+      {"apiVersion":"v1","kind":"ServiceAccount","metadata":{"annotations":{},"name":"flannel","namespace":"kube-system"}}
+  creationTimestamp: "2022-01-03T14:15:23Z"
+  name: flannel
+  namespace: kube-system
+  resourceVersion: "28084"
+  uid: 52bc4b70-38c2-41ce-83d7-3dbbeefe11ec
+secrets:
+- name: flannel-token-wqrlr

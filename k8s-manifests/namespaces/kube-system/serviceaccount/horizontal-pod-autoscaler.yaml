@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:16Z"
+  name: horizontal-pod-autoscaler
+  namespace: kube-system
+  resourceVersion: "294"
+  uid: f900addd-baf9-47d2-b4c7-14e1e150c43c
+secrets:
+- name: horizontal-pod-autoscaler-token-fx55d

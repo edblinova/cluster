@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:16Z"
+  name: node-controller
+  namespace: kube-system
+  resourceVersion: "283"
+  uid: e2383dc1-7f21-4cf9-8f05-46acf9c15bc1
+secrets:
+- name: node-controller-token-ztkhs

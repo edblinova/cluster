@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:26Z"
+  name: generic-garbage-collector
+  namespace: kube-system
+  resourceVersion: "337"
+  uid: 5cd8e85a-fe46-44a7-a9cd-b1048379b4b3
+secrets:
+- name: generic-garbage-collector-token-s5kgp

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:26Z"
+  name: disruption-controller
+  namespace: kube-system
+  resourceVersion: "358"
+  uid: 83a55d5b-56aa-43b5-a139-9bc896f291bd
+secrets:
+- name: disruption-controller-token-jllcl

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:26Z"
+  name: ttl-controller
+  namespace: kube-system
+  resourceVersion: "347"
+  uid: 053f0890-f12d-42fc-8525-855a1b6b8247
+secrets:
+- name: ttl-controller-token-2nftq

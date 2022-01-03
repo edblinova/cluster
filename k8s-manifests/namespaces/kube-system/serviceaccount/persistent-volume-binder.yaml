@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:28Z"
+  name: persistent-volume-binder
+  namespace: kube-system
+  resourceVersion: "383"
+  uid: e72ec8c6-204c-40a5-9e85-9f492211fe74
+secrets:
+- name: persistent-volume-binder-token-4qf2p

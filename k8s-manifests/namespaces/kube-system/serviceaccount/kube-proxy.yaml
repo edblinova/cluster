@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:15Z"
+  name: kube-proxy
+  namespace: kube-system
+  resourceVersion: "271"
+  uid: 00ebdd26-437c-4e4b-8951-f3f06aa3f43f
+secrets:
+- name: kube-proxy-token-x5cjl

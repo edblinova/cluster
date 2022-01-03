@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:16Z"
+  name: token-cleaner
+  namespace: kube-system
+  resourceVersion: "278"
+  uid: 10efcd74-1d17-49eb-9942-6f5fb9e3c701
+secrets:
+- name: token-cleaner-token-fm9nq

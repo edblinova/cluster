@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-01-03T07:54:29Z"
+  name: default
+  namespace: default
+  resourceVersion: "421"
+  uid: 4fb109e2-8404-42ab-b7f4-1dec2228f635
+secrets:
+- name: default-token-5dl5x
